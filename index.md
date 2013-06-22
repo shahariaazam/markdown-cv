@@ -92,10 +92,10 @@ __PSR__
 - structure that takes advantage of all the features of object oriented programming in php for libraries easy to develop, maintain and operate with other libraries
 
 __Frameworks__
-- Experience in the use of various frameworks (`CakePHP`, `CodeIgniter`, `Zend Framework`)
+- Experience in the use of various frameworks (CakePHP, CodeIgniter, Zend Framework)
 
 __CMS__
-- Experienced in most of the popular CMSs (`Wordpress`, `Drupal`, `ZenCart`, `Joomla`)
+- Experienced in most of the popular CMSs (Wordpress, Drupal, ZenCart, Joomla)
 
 ### Posters
 
