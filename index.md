@@ -73,7 +73,7 @@ __Newport Unviersity CED__
 
 <!-- Few description can be written here -->
 
-### Programming Language
+### Server-side Language
 
 `PHP`
 __Experience__
@@ -96,6 +96,16 @@ __Frameworks__
 
 __CMS__
 - Experienced in most of the popular CMSs ( *Wordpress*, *Drupal*, *ZenCart*, *Joomla*)
+
+
+### Markup Language
+
+`HTML5`
+__Experience__
+- 7 years
+
+__Description__
+- Design interactive UI with the latest HTML5 technology that meet any kinds of requirement of clients
 
 
 ### Posters
