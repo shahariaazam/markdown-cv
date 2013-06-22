@@ -82,42 +82,20 @@ __Experience__
 __PDO__
 - Access database that enhances object-oriented functionality on the functions `and` mysql_connect derivatives. This method of database access is more efficient and safe
 
+__MVC__
+- Design-oriented programming that helps web servers libraries organize according to their functionality in Model, View and Controller
 
-`2011`
-Rhiannon White, Sachiko Miyata, *Eliseo Papa*, Eric Spooner, Kleoniki Gounaris, Murray Selkirk, Katerina Artavanis-Tsakonas.  
-Characterisation of the Trichinella spiralis deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome interaction partner. 
-**PLoS Negl Trop Dis.** 2011 Oct;5(10):e1340.
+__Design Patterns__
+- Experience with several programming designs and how they relate and work among them
 
-`2011`
-Katerina Artavanis-Tsakonas, Pia V Kasperkovitz, *Eliseo Papa*, Michael L Cardenas, Nida S Khan, Annemarthe G Van der Veen, Hidde L Ploegh and Jatin M Vyas.  
-The Tetraspanin CD82 is Specifically Recruited to Fungal and Bacterial Phagosomes Prior to Acidification. 
-**Infection and Immunity** 2011 79(3):1098-106\
+__PSR__
+- structure that takes advantage of all the features of object oriented programming in php for libraries easy to develop, maintain and operate with other libraries
 
-`2009`
-Adebola Ogunniyi, Craig Story, *Eliseo Papa*, Eduardo Guillen, J. Christopher Love.  
-Screening Individual Hybridomas by Microengraving to Discover Monoclonal Antibodies.
-**Nature Protocols** 2009 4(5):767-82
+__Frameworks__
+- Experience in the use of various frameworks (`CakePHP`, `CodeIgniter`, `Zend Framework`)
 
-`2009`
-Jehnna L. Ronan, Craig Story, *Eliseo Papa*, J. Christopher Love.
-Optimization of the surfaces used to capture antibodies from single hybridomas reduces the time required for microengraving. 
-**Journal of Immunological Methods** 2009, 340(2):164-9\
-
-`2008`
-Craig Story\*, *Eliseo Papa\* (co-author)*, Chih-Chi Andrew Hu, Jehnna L Ronan, Hidde L Ploegh, J.Christopher Love.  
-Profiling Antibody Responses by Multiparametric Analysis of Single B Cells. 
-**PNAS** 2008 105(46):17902-7
-
-`2005`
-Hans Fischer, *Eli Papa*, Lichuan Liu, K. Sandy Pang, Warren C. W. Chan.  
-Preliminary Results: Exploring the Interactions of Quantum Dots with Whole Blood Components. 
-**SPIE Proceedings** 2005 5969,54
-
-`2004`
-Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan. 
-Semiconductor quantum dots as contrast agents for whole animal imaging. 
-**Trends in Biotechnology** 2004 22:12
-
+__CMS__
+- Experienced in most of the popular CMSs (`Wordpress`, `Drupal`, `ZenCart`, `Joomla`)
 
 ### Posters
 
