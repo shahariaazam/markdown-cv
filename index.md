@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Shaharia Azam's CV
 ---
-# Eliseo Papa
-Biomedical Engineer, Physician, Computational Biologist, Data Scientist
+# Shaharia Azam
+PHP Programmer, Web Technology Enthusiast
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -25,104 +25,49 @@ while(x=eval(x));
 //-->
 //]]> </script>
 
-| <a href="http://eliseopapa.org">eliseopapa.org</a>
-| <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
+| <a href="http://www.shahariaazam.com">shahariaazam.com</a>
+| <a href="https://www.facebook.com/shaharia.azam">facebook</a>
+| <a href="https://plus.google.com/u/0/114541364064474970092">Google Plus</a>
+| <a href="http://www.twitter.com/shaharia">Twitter</a>
 </div>
 
 
 
 ### Specialized in
 
-Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
+Developing highly reliable, secured web application with rich UI and strong programming language.
 
 ### Research interests
 
-Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
+Web Technology, Startups, Computer Technology, IT Innovation.
 
 ## Languages
 
-Italian: Mother tongue  
+Bengali: Mother tongue  
 English: Perfect oral & written fluency  
-French:  Working knowledge  
 
 
 ## Education
 
-`2009-2013`
-__Imperial College London__
-
-- MBBS Graduate Entry Medicine Programme
-
-
-`2006-2012`
-__Harvard Medical School & Massachusets Institute of Technology__
-
-- PhD, Biomedical Engineering,
-   [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)  
-- Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)  
-- Representative courses:  
-    - _Harvard Medical School_ - pathology, renal pathophysiology, respiratory pathophysiology, cardiac pathophysiology.  
-    - _MIT_ - biomechanics, statistical learning, systems microbiology, forces fields and flows in biological systems, fluid mechanics, heat transfer, numerical modeling.
-
-
-`2006-2008`
-__Massachusets Institute of Technology__
-
-- SM in Mechanical Engineering
-
-
-`2001-2005`
-__University of Toronto__
-
-- BASc (Honors)
-- Engineering Science, Biomedical Option
-
-
-## Fellowships
-
-`2010-2011`
-NSERC Postgraduate D Scholarship, National Science Engineering Research Council, Canada
-
-`2008-2009`
-Poitras pre-doctoral fellowship 
-  
-`2007`
-Martino Scholar, Harvard/MIT Health Science Tech. Inst.
-
-`2005-2008`
-NSERC Postgraduate M Scholarship, National Science Engineering Research Council, Canada
-
-`2005` 
-OGS Postgraduate Scholarship (declined), Ontario Government, Canada
-
-`2004` 
-NSERC Summer Research Award, National Science Engineering Research Council, Canada
-
-`2003` 
-\#2 Canadian Army University Course Undergrad Scholarship,University of Toronto
-
-## Awards
-
-`2012`
-Bursary recipient, *Exploring Human Host-Microbiome Interactions in Health and Disease*, Wellcome Trust Scientific Conferences
-
-`2008`
-Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science Tech. Inst.
-
-`2008`
-Competition Semifinalist, MIT 100k Business Plan
-
 `2004`
-University of Toronto Life Sciences Award, University of Toronto
+__Satkhira Govt. School__
 
-`2002-04`
-Silver T – academic athletic excellence, University of Toronto
+- Secondary School Certificate
+- Science group
 
-`2003`
-OUA Academic Achievement Award, Ontario, Canada
 
-`2001`
-Ontario Scholar, Government of Ontario, Canada
+`2006`
+__Satkhira Govt. College__
+
+- Higher Secondary Certificate
+
+
+`2006-2010`
+__Newport Unviersity CED__
+
+- Bachelors in Science
+  - Major in Intformation Technology
+
 
 ## Publications
 
