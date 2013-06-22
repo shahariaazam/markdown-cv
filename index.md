@@ -69,9 +69,9 @@ __Newport Unviersity CED__
   - Major in Intformation Technology
 
 
-## Publications
+## Programming Language
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
