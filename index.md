@@ -66,7 +66,7 @@ __Satkhira Govt. College__
 __Newport Unviersity CED__
 
 - Bachelors in Science
-  - Major in Intformation Technology
+- *Major in Intformation Technology*
 
 
 ## Programming Language
