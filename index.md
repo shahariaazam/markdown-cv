@@ -80,7 +80,7 @@ __Experience__
 - 6 years
 
 __PDO__
-- Access database that enhances object-oriented functionality on the functions `and` mysql_connect derivatives. This method of database access is more efficient and safe
+- Access database that enhances object-oriented functionality on the functions and mysql_connect derivatives. This method of database access is more efficient and safe
 
 __MVC__
 - Design-oriented programming that helps web servers libraries organize according to their functionality in Model, View and Controller
@@ -92,10 +92,11 @@ __PSR__
 - structure that takes advantage of all the features of object oriented programming in php for libraries easy to develop, maintain and operate with other libraries
 
 __Frameworks__
-- Experience in the use of various frameworks (CakePHP, CodeIgniter, Zend Framework)
+- Experience in the use of various frameworks ( *CakePHP*, *CodeIgniter*, *Zend Framework*)
 
 __CMS__
-- Experienced in most of the popular CMSs (Wordpress, Drupal, ZenCart, Joomla)
+- Experienced in most of the popular CMSs ( *Wordpress*, *Drupal*, *ZenCart*, *Joomla*)
+
 
 ### Posters
 
